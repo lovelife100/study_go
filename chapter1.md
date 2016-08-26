@@ -13,6 +13,8 @@
 [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize/)
 
 ##Http
+[Go Http Package](https://golang.org/pkg/net/http/)
+
 [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 
 ##New updated in GO
