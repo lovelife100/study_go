@@ -1,5 +1,10 @@
 # Learning materials
+
+##Get Started
+[How to Write Go Code](https://golang.org/doc/code.html)
+
 [Effective GO](https://golang.org/doc/effective_go.html)
+
 ##Concurrency
 [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide)
 
