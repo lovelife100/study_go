@@ -11,4 +11,6 @@
 [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
 
 ###New updated in GO
+[Go 1.6 release party](http://go-talks.appspot.com/github.com/davecheney/gosyd/go1.6.slide)
+
 [Smaller Go 1.7 binaries](https://blog.golang.org/go1.7-binary-size) 
